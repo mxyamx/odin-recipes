@@ -1,3 +1,12 @@
-h1 {
-    color:blue;
+body {
+    color:#F9E4D4;
+}
+h1,h3 {
+    color:#FA58B6;
+}
+ul {
+    color:#FA58B6;
+}
+a {
+    color: #FA58B6
 }
