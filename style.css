@@ -1,12 +1,55 @@
 body {
-    color:#F9E4D4;
+    color:#FEFDFF;
+    text-align: center;
+   
 }
-h1,h3 {
-    color:#FA58B6;
+h1 {
+    color:#272044;
+    
 }
 ul {
-    color:#FA58B6;
+    color:#885DF1;
+    margin: 0 auto;
+    
+}
+p {
+    color: #885DF1;
+    
+}
+h3 {
+    color: #885DF1;
+   
+}
+ol {
+    color: #885DF1;
+    margin: auto;
 }
 a {
-    color: #FA58B6
+    text-decoration: none;
 }
+
+
+button {
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 50px;
+    border-width: 1px;
+    padding: 20px;
+    font-size: 15px;
+    background-color: #E4CAF6;
+    transition: all 200ms ease-in-out;  
+}
+button:hover{
+    background-color: white;
+    color:#272044 ;
+}
+.ingredients {
+    text-align: left;
+}
+.steps {
+    text-align: left;
+}
+
